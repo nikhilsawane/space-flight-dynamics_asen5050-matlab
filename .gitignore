@@ -1,0 +1,15 @@
+# MATLAB temporary/backup files
+*.asv
+*.m~
+*.mlx~
+*.bak
+
+# MATLAB-generated files
+*.mat
+*.fig
+
+# macOS metadata
+.DS_Store
+
+# VSCode config
+.vscode/
