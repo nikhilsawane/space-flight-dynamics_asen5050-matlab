@@ -1,0 +1,4 @@
+clc
+commandwindow
+clear
+
